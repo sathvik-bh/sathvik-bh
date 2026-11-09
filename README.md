@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathvik BH</h1>
 
 <h3 align="center">
-  BTech AIML Student | Aspiring Software Developer
+  BE AIML Student | Aspiring Software Developer
 </h3>
 
 <p align="center">
