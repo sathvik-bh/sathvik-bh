@@ -1,170 +1,105 @@
-<h1 align="center">Hi 👋, I'm Sathvik BH</h1>
+<div align="center">
 
-<h3 align="center">
-  BE AIML Student | Aspiring Software Developer
-</h3>
+# Hey, I'm Sathvik BH 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Programmer;Web+Development+Enthusiast;Problem+Solver;Exploring+AI+%26+ML" />
-</p>
+### B.E. Artificial Intelligence & Machine Learning Student
+
+Aspiring Software Developer | DSA Enthusiast | Problem Solver
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathvik-bh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvik-bh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sathvik_bh/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sathvikbh2007)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BTech student specializing in Artificial Intelligence & Machine Learning.
-- 💻 Interested in Software Development and Web Development.
-- 🚀 Love building practical and interactive projects.
-- 🧠 Interested in Data Structures and Algorithms.
-- 🌱 Exploring Backend Development and AI/ML.
-- 📍 Bengaluru, India.
+- 🎓 Pursuing B.E. in Artificial Intelligence & Machine Learning.
+- 💻 Interested in Software Development and Problem Solving.
+- 🧠 Practising Data Structures and Algorithms.
+- 🌐 Interested in Web Development and IoT.
+- 🚀 Enjoy building practical projects and learning new technologies.
+- 📚 Continuously improving my programming and development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
-</p>
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frontend Development
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Database & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### ⭐ DSA Visualizations
+### 📊 DSA Visualizations
 
-An interactive platform for visualizing Data Structures and Algorithms.
+An interactive Data Structures and Algorithms visualization platform built using HTML, CSS and JavaScript.
 
-**Modules:**
+**Modules included:**
 - Stack Visualizer
 - Queue Visualizer
 - Singly Linked List Visualizer
-- Tower of Hanoi 3D
+- Tower of Hanoi Visualizer
 
-**Technologies:** HTML, CSS, JavaScript
+**Explore the project:**
 
-🔗 [GitHub Repository](https://github.com/sathvik-bh/sathvik-bh-DSA-VISUALIZATIONS)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sathvik-bh/sathvik-bh-DSA-VISUALIZATIONS)
 
----
-
-### 🍽️ DineOS
-
-A software development project.
-
-🔗 [GitHub Repository](https://github.com/sathvik-bh/DineOS)
+[![Stack](https://img.shields.io/badge/Stack_Demo-00A86B?style=for-the-badge)](https://stack-visualizer-044.netlify.app)
+[![Queue](https://img.shields.io/badge/Queue_Demo-007ACC?style=for-the-badge)](https://queue-visualizer-044.netlify.app)
+[![Linked List](https://img.shields.io/badge/Linked_List_Demo-8A2BE2?style=for-the-badge)](https://singly-linked-list-044.netlify.app)
+[![Tower of Hanoi](https://img.shields.io/badge/Tower_of_Hanoi_Demo-E67E22?style=for-the-badge)](https://tower-of-hanoi-044.netlify.app)
 
 ---
 
-### 🤖 AI Agent
+## 📈 GitHub Statistics
 
-An AI-related development project.
+<div align="center">
 
-🔗 [GitHub Repository](https://github.com/sathvik-bh/AI-agent)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sathvik-bh&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-bh&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 💻 C Programs
-
-A collection of C programming exercises and implementations.
-
-🔗 [GitHub Repository](https://github.com/sathvik-bh/C-PROGRAMS)
-
----
-
-## 🌱 Currently Learning
-
-- Data Structures and Algorithms
-- Backend Development
-- Artificial Intelligence & Machine Learning
-- Problem Solving
-- Software Development
-
----
-
-## 🏆 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/sathvik_bh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/sathvikbh2007">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sathvik-bh&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-bh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=sathvik-bh&theme=tokyonight&hide_border=true" />
-</p>
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/sathvik-bh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sathvik-bh/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/sathvikbh2007">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sathvik_bh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:sathvikbh2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- **GitHub:** https://github.com/sathvik-bh
+- **LinkedIn:** https://www.linkedin.com/in/sathvik-bh/
+- **LeetCode:** https://leetcode.com/u/sathvik_bh/
+- **HackerRank:** https://www.hackerrank.com/profile/sathvikbh2007
+- **Email:** sathvikbh2007@gmail.com
 
 ---
 
-<h3 align="center">
-  ✨ Keep Learning. Keep Building. Keep Growing.
-</h3>
+<div align="center">
 
-<p align="center">
-  Thanks for visiting my GitHub profile! 🚀
-</p>
+### 💡 Keep Learning. Keep Building. Keep Growing.
+
+![Profile Views](https://komarev.com/ghpvc/?username=sathvik-bh&color=blueviolet&style=flat-square)
+
+</div>
